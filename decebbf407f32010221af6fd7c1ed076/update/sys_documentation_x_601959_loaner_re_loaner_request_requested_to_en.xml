@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="requested_to" label="requested to" language="en" table="x_601959_loaner_re_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requested_to</element>
+            <help/>
+            <hint/>
+            <label>requested to</label>
+            <language>en</language>
+            <name>x_601959_loaner_re_loaner_request</name>
+            <plural>requested to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 09:13:22</sys_created_on>
+            <sys_id>a1ceeb89077f2010221af6fd7c1ed065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>requested to</sys_name>
+            <sys_package display_value="loaner Request" source="x_601959_loaner_re">decebbf407f32010221af6fd7c1ed076</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="loaner Request">decebbf407f32010221af6fd7c1ed076</sys_scope>
+            <sys_update_name>sys_documentation_x_601959_loaner_re_loaner_request_requested_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 09:13:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Statictics" section_id="e4bbbb0507bf2010221af6fd7c1ed0a0" sys_domain="global" table="x_601959_loaner_re_loaner_request" version="3" view="EES">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>74bbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>f4bbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>78bbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>f8bbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>7cbbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>fcbbbb0507bf2010221af6fd7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>70bbbb0507bf2010221af6fd7c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:51</sys_created_on>
+            <sys_id>f0bbbb0507bf2010221af6fd7c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statictics" display_value="Statictics" name="x_601959_loaner_re_loaner_request" sys_domain="global" view="a0bbbb0507bf2010221af6fd7c1ed037">e4bbbb0507bf2010221af6fd7c1ed0a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statictics</caption>
+            <header>false</header>
+            <name>x_601959_loaner_re_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 10:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4bbbb0507bf2010221af6fd7c1ed0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_601959_loaner_re_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="loaner Request" source="x_601959_loaner_re">decebbf407f32010221af6fd7c1ed076</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="loaner Request">decebbf407f32010221af6fd7c1ed076</sys_scope>
+            <sys_update_name>sys_ui_section_e4bbbb0507bf2010221af6fd7c1ed0a0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 10:09:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="EES" name="EES">a0bbbb0507bf2010221af6fd7c1ed037</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
