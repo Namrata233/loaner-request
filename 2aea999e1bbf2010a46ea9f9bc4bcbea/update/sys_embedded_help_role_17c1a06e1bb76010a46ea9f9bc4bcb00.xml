@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_601959_loaner_re.admin" name="x_601959_loaner_re.admin">d77160ae1bb76010a46ea9f9bc4bcbd6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 10:08:42</sys_created_on>
+        <sys_id>17c1a06e1bb76010a46ea9f9bc4bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d77160ae1bb76010a46ea9f9bc4bcbd6</sys_name>
+        <sys_package display_value="loaner request" source="x_601959_loaner_re">2aea999e1bbf2010a46ea9f9bc4bcbea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loaner request">2aea999e1bbf2010a46ea9f9bc4bcbea</sys_scope>
+        <sys_update_name>sys_embedded_help_role_17c1a06e1bb76010a46ea9f9bc4bcb00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 10:08:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
